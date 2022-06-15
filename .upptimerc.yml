@@ -9,8 +9,8 @@ sites:
     url: https://mp.samsa.com.ar:8889
   - name: Acceso Clientes
     url: https://intranet.samsa.com.ar/apex/f?p=1000
-  - name: Acceso Contratistas
-    url: https://intranet.samsa.com.ar/siga/f?p=134
+  - name: Acceso Externo
+    url: https://intranet.samsa.com.ar/siga/f?p=129
   - name: INTERNET
     url: http://fibertel.samsa.com.ar/testinet/fibertel/
   - name: SITIO WEB
