@@ -11,8 +11,8 @@ sites:
     url: https://intranet.samsa.com.ar/apex/f?p=1000
   - name: Acceso Externo
     url: https://intranet.samsa.com.ar/siga/f?p=129
-  - name: INTERNET
-    url: http://fibertel.samsa.com.ar/testinet/fibertel/
+  - name: INTERNET FIBERTEL
+    url: 200.127.228.14
   - name: SITIO WEB
     url: https://samsa.com.ar
 
