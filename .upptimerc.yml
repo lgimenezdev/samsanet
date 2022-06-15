@@ -19,8 +19,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  baseUrl: /samsanet
+  cname: status.samsa.com.ar
+  #baseUrl: /samsanet
   logoUrl: https://samsa.com.ar/assets/images/logosamsacompleto-1-192x67.png
   name: Estado de Servicios Informáticos
   introTitle: "**Upptime** Desde aquí podés observar el estado de los enlaces."
