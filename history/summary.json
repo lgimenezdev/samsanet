@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 836,
-    "timeDay": 836,
-    "timeWeek": 836,
-    "timeMonth": 836,
-    "timeYear": 836,
+    "time": 858,
+    "timeDay": 858,
+    "timeWeek": 858,
+    "timeMonth": 858,
+    "timeYear": 858,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 796,
-    "timeWeek": 796,
-    "timeMonth": 796,
-    "timeYear": 796,
+    "time": 821,
+    "timeDay": 821,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 11619,
-    "timeDay": 11619,
-    "timeWeek": 11619,
-    "timeMonth": 11619,
-    "timeYear": 11619,
+    "time": 8915,
+    "timeDay": 8915,
+    "timeWeek": 8915,
+    "timeMonth": 8915,
+    "timeYear": 8915,
     "dailyMinutesDown": {}
   },
   {
@@ -59,38 +59,38 @@
     "icon": "https://favicons.githubusercontent.com/intranet.samsa.com.ar",
     "slug": "acceso-externo",
     "status": "down",
-    "uptime": "22.42%",
-    "uptimeDay": "22.42%",
-    "uptimeWeek": "22.42%",
-    "uptimeMonth": "22.42%",
-    "uptimeYear": "22.42%",
+    "uptime": "2.68%",
+    "uptimeDay": "2.68%",
+    "uptimeWeek": "2.68%",
+    "uptimeMonth": "2.68%",
+    "uptimeYear": "2.68%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 1
+      "2022-06-15": 6
     }
   },
   {
-    "name": "INTERNET",
-    "url": "http://fibertel.samsa.com.ar/testinet/fibertel/",
-    "icon": "https://favicons.githubusercontent.com/fibertel.samsa.com.ar",
-    "slug": "internet",
+    "name": "INTERNET FIBERTEL",
+    "url": "200.127.228.14",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "internet-fibertel",
     "status": "down",
-    "uptime": "1.78%",
-    "uptimeDay": "1.78%",
-    "uptimeWeek": "1.78%",
-    "uptimeMonth": "1.78%",
-    "uptimeYear": "1.78%",
+    "uptime": "81.12%",
+    "uptimeDay": "81.12%",
+    "uptimeWeek": "81.12%",
+    "uptimeMonth": "81.12%",
+    "uptimeYear": "81.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 28
+      "2022-06-15": 0
     }
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1084,
-    "timeDay": 1084,
-    "timeWeek": 1084,
-    "timeMonth": 1084,
-    "timeYear": 1084,
+    "time": 1311,
+    "timeDay": 1311,
+    "timeWeek": 1311,
+    "timeMonth": 1311,
+    "timeYear": 1311,
     "dailyMinutesDown": {}
   }
 ]
