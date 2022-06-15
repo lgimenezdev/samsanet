@@ -23,7 +23,7 @@ status-website:
   baseUrl: /samsanet
   logoUrl: https://samsa.com.ar/assets/images/logosamsacompleto-1-192x67.png
   name: Estado de Servicios Informáticos
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Upptime** Desde aquí podés observar el estado de los enlaces."
   introMessage: Sistema de monitoreo **tiempo real**.
   navbar:
     - title: Status
