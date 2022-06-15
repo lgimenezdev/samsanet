@@ -9,10 +9,10 @@ sites:
     url: https://mp.samsa.com.ar:8889
   - name: Acceso Clientes
     url: https://intranet.samsa.com.ar/apex/f?p=1000
-  - name: Acceso Externo
-    url: https://intranet.samsa.com.ar/siga/f?p=129
-  - name: INTERNET FIBERTEL
-    url: 200.127.228.14
+  - name: INTERNET FIBE
+    url: fibertel.samsa.com.ar
+  - name: INTERNET GIGA
+    url: gigared.samsa.com.ar
   - name: SITIO WEB
     url: https://samsa.com.ar
 
