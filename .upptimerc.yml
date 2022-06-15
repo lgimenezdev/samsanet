@@ -24,7 +24,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Servicios de Agua de Misiones
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
