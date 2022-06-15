@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 714,
-    "timeDay": 714,
-    "timeWeek": 714,
-    "timeMonth": 714,
-    "timeYear": 714,
+    "time": 869,
+    "timeDay": 869,
+    "timeWeek": 869,
+    "timeMonth": 869,
+    "timeYear": 869,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 645,
-    "timeDay": 645,
-    "timeWeek": 645,
-    "timeMonth": 645,
-    "timeYear": 645,
+    "time": 743,
+    "timeDay": 743,
+    "timeWeek": 743,
+    "timeMonth": 743,
+    "timeYear": 743,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 28598,
-    "timeDay": 28598,
-    "timeWeek": 28598,
-    "timeMonth": 28598,
-    "timeYear": 28598,
+    "time": 17062,
+    "timeDay": 17062,
+    "timeWeek": 17062,
+    "timeMonth": 17062,
+    "timeYear": 17062,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/intranet.samsa.com.ar",
     "slug": "acceso-contratistas",
     "status": "down",
-    "uptime": "38.05%",
-    "uptimeDay": "38.05%",
-    "uptimeWeek": "38.05%",
-    "uptimeMonth": "38.05%",
-    "uptimeYear": "38.05%",
+    "uptime": "1.89%",
+    "uptimeDay": "1.89%",
+    "uptimeWeek": "1.89%",
+    "uptimeMonth": "1.89%",
+    "uptimeYear": "1.89%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 1
+      "2022-06-15": 19
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/fibertel.samsa.com.ar",
     "slug": "internet",
     "status": "down",
-    "uptime": "78.68%",
-    "uptimeDay": "78.68%",
-    "uptimeWeek": "78.68%",
-    "uptimeMonth": "78.68%",
-    "uptimeYear": "78.68%",
+    "uptime": "2.60%",
+    "uptimeDay": "2.60%",
+    "uptimeWeek": "2.60%",
+    "uptimeMonth": "2.60%",
+    "uptimeYear": "2.60%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 19
     }
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 478,
-    "timeWeek": 478,
-    "timeMonth": 478,
-    "timeYear": 478,
+    "time": 1109,
+    "timeDay": 1109,
+    "timeWeek": 1109,
+    "timeMonth": 1109,
+    "timeYear": 1109,
     "dailyMinutesDown": {}
   }
 ]
