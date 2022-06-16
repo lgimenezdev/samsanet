@@ -27,7 +27,7 @@ status-website:
   introMessage: Sistema de monitoreo **tiempo real**.
   navbar:
     - title: Status
-      href: /
+      href: https://lgimenezdev.github.io/samsanet/
     - title: Servicios de Agua de Misiones
       href: https://samsa.com.ar
 
