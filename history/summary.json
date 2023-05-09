@@ -49,9 +49,9 @@
     "url": "https://mp.samsa.com.ar:8889",
     "icon": "https://icons.duckduckgo.com/ip3/mp.samsa.com.ar.ico",
     "slug": "mp",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "97.51%",
     "uptimeMonth": "98.09%",
     "uptimeYear": "98.78%",
@@ -61,6 +61,7 @@
     "timeMonth": 1215,
     "timeYear": 1285,
     "dailyMinutesDown": {
+      "2023-05-09": 1,
       "2023-05-07": 251,
       "2023-04-17": 298,
       "2023-04-15": 207,
@@ -203,7 +204,7 @@
     "timeMonth": 0,
     "timeYear": 732,
     "dailyMinutesDown": {
-      "2023-05-09": 87,
+      "2023-05-09": 796,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
