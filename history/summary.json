@@ -11,10 +11,10 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.42%",
     "time": 967,
-    "timeDay": 772,
-    "timeWeek": 824,
-    "timeMonth": 1075,
-    "timeYear": 967,
+    "timeDay": 0,
+    "timeWeek": 766,
+    "timeMonth": 1091,
+    "timeYear": 969,
     "dailyMinutesDown": {
       "2023-05-31": 49,
       "2023-05-30": 27,
@@ -43,8 +43,7 @@
       "2022-08-04": 82,
       "2022-07-13": 96,
       "2022-07-01": 155,
-      "2022-06-23": 71,
-      "2022-06-16": 48
+      "2022-06-23": 71
     }
   },
   {
@@ -53,18 +52,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/mp.samsa.com.ar.ico",
     "slug": "mp",
     "status": "down",
-    "uptime": "89.04%",
+    "uptime": "88.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.04%",
+    "uptimeYear": "88.62%",
     "time": 1285,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1285,
+    "timeYear": 1294,
     "dailyMinutesDown": {
-      "2023-06-14": 637,
+      "2023-06-16": 103,
+      "2023-06-15": 1440,
+      "2023-06-14": 1440,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
@@ -134,18 +135,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "acceso-clientes",
     "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.88%",
+    "uptime": "98.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "98.72%",
     "time": 3225,
-    "timeDay": 1056,
-    "timeWeek": 3089,
-    "timeMonth": 3925,
-    "timeYear": 3225,
+    "timeDay": 0,
+    "timeWeek": 2942,
+    "timeMonth": 3988,
+    "timeYear": 3199,
     "dailyMinutesDown": {
-      "2023-06-14": 7,
       "2023-05-30": 27,
       "2023-05-22": 20,
       "2023-05-12": 429,
@@ -174,8 +174,7 @@
       "2022-08-03": 29,
       "2022-07-13": 28,
       "2022-07-01": 186,
-      "2022-06-23": 70,
-      "2022-06-16": 47
+      "2022-06-23": 70
     }
   },
   {
@@ -184,15 +183,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-fibe",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.46%",
+    "uptimeYear": "97.48%",
     "time": 677,
-    "timeDay": 631,
-    "timeWeek": 584,
-    "timeMonth": 585,
+    "timeDay": 0,
+    "timeWeek": 573,
+    "timeMonth": 587,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2023-05-30": 19,
@@ -227,9 +226,7 @@
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
-      "2022-06-17": 1440,
-      "2022-06-16": 764,
-      "2022-06-15": 51
+      "2022-06-17": 1440
     }
   },
   {
@@ -238,18 +235,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-giga",
     "status": "down",
-    "uptime": "2.35%",
+    "uptime": "2.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "2.35%",
+    "uptimeYear": "2.21%",
     "time": 732,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 732,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2023-06-14": 638,
+      "2023-06-16": 104,
+      "2023-06-15": 1440,
+      "2023-06-14": 1440,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
@@ -605,8 +604,7 @@
       "2022-06-26": 1440,
       "2022-06-25": 1440,
       "2022-06-24": 1440,
-      "2022-06-23": 451,
-      "2022-06-16": 47
+      "2022-06-23": 451
     }
   },
   {
@@ -621,18 +619,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.25%",
     "time": 706,
-    "timeDay": 376,
-    "timeWeek": 523,
-    "timeMonth": 822,
-    "timeYear": 706,
+    "timeDay": 0,
+    "timeWeek": 503,
+    "timeMonth": 849,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2023-01-19": 621,
       "2023-01-18": 544,
       "2022-12-22": 251,
       "2022-09-09": 112,
       "2022-07-25": 995,
-      "2022-07-24": 1357,
-      "2022-06-16": 48
+      "2022-07-24": 1357
     }
   }
 ]
