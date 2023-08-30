@@ -6,13 +6,15 @@ sites:
   - name: INTRANET
     url: https://intranet.samsa.com.ar
   - name: MP
-    url: https://mp.samsa.com.ar:8889
+    url: https://intranet.samsa.com.ar/mp/
   - name: Acceso Clientes
     url: https://intranet.samsa.com.ar/apex/f?p=1000
   - name: INTERNET FIBE
     url: fibertel.samsa.com.ar
   - name: INTERNET GIGA
     url: gigared.samsa.com.ar
+  - name: INTERNET CLARO
+    url: claro.samsa.com.ar
   - name: SITIO WEB
     url: https://samsa.com.ar
 
