@@ -55,8 +55,8 @@
     "slug": "mp",
     "status": "up",
     "uptime": "73.47%",
-    "uptimeDay": "7.11%",
-    "uptimeWeek": "1.02%",
+    "uptimeDay": "7.90%",
+    "uptimeWeek": "1.13%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "68.01%",
     "time": 1282,
@@ -316,7 +316,7 @@
     "timeMonth": 0,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2023-08-30": 913,
+      "2023-08-30": 925,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -688,18 +688,20 @@
     "url": "claro.samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-claro",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 414,
     "timeDay": 414,
     "timeWeek": 414,
     "timeMonth": 414,
     "timeYear": 414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 0
+    }
   },
   {
     "name": "SITIO WEB",
