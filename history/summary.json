@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.97%",
     "time": 1641,
-    "timeDay": 729,
-    "timeWeek": 913,
-    "timeMonth": 936,
+    "timeDay": 704,
+    "timeWeek": 884,
+    "timeMonth": 934,
     "timeYear": 1923,
     "dailyMinutesDown": {
       "2024-01-07": 16,
@@ -54,8 +54,7 @@
       "2023-02-14": 108,
       "2023-02-10": 38,
       "2023-02-03": 129,
-      "2023-02-02": 69,
-      "2023-01-28": 74
+      "2023-02-02": 69
     }
   },
   {
@@ -64,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
     "status": "up",
-    "uptime": "79.84%",
+    "uptime": "79.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "67.99%",
-    "time": 1002,
-    "timeDay": 162,
-    "timeWeek": 188,
-    "timeMonth": 193,
-    "timeYear": 975,
+    "time": 1000,
+    "timeDay": 188,
+    "timeWeek": 190,
+    "timeMonth": 194,
+    "timeYear": 973,
     "dailyMinutesDown": {
       "2024-01-07": 15,
       "2023-12-23": 248,
@@ -217,8 +216,7 @@
       "2023-03-03": 60,
       "2023-02-14": 40,
       "2023-02-03": 24,
-      "2023-02-02": 18,
-      "2023-01-28": 15
+      "2023-02-02": 18
     }
   },
   {
@@ -229,13 +227,13 @@
     "status": "up",
     "uptime": "97.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "96.22%",
     "uptimeYear": "97.63%",
-    "time": 3366,
-    "timeDay": 12418,
-    "timeWeek": 2484,
-    "timeMonth": 4451,
+    "time": 3361,
+    "timeDay": 845,
+    "timeWeek": 2722,
+    "timeMonth": 4392,
     "timeYear": 3482,
     "dailyMinutesDown": {
       "2024-01-20": 26,
@@ -286,8 +284,7 @@
       "2023-03-03": 53,
       "2023-02-14": 107,
       "2023-02-03": 152,
-      "2023-02-02": 80,
-      "2023-01-28": 71
+      "2023-02-02": 80
     }
   },
   {
@@ -296,18 +293,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-fibe",
     "status": "down",
-    "uptime": "73.19%",
+    "uptime": "73.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.82%",
-    "time": 704,
+    "uptimeYear": "58.54%",
+    "time": 705,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2024-01-27": 73,
+      "2024-01-28": 79,
+      "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
@@ -477,8 +475,7 @@
       "2023-02-14": 107,
       "2023-02-10": 23,
       "2023-02-03": 109,
-      "2023-02-02": 79,
-      "2023-01-28": 78
+      "2023-02-02": 79
     }
   },
   {
@@ -487,7 +484,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-giga",
     "status": "down",
-    "uptime": "1.45%",
+    "uptime": "1.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -498,7 +495,8 @@
     "timeMonth": 0,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2024-01-27": 73,
+      "2024-01-28": 79,
+      "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
@@ -861,8 +859,7 @@
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
-      "2023-01-29": 1433,
-      "2023-01-28": 1361
+      "2023-01-29": 1433
     }
   },
   {
@@ -871,16 +868,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-claro",
     "status": "up",
-    "uptime": "68.46%",
+    "uptime": "68.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "68.46%",
-    "time": 622,
-    "timeDay": 579,
-    "timeWeek": 593,
-    "timeMonth": 594,
-    "timeYear": 622,
+    "uptimeYear": "68.67%",
+    "time": 621,
+    "timeDay": 467,
+    "timeWeek": 596,
+    "timeMonth": 590,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2024-01-24": 41,
       "2024-01-23": 4,
@@ -962,11 +959,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.36%",
-    "time": 879,
-    "timeDay": 1250,
-    "timeWeek": 1511,
-    "timeMonth": 1516,
-    "timeYear": 961,
+    "time": 881,
+    "timeDay": 1426,
+    "timeWeek": 1513,
+    "timeMonth": 1517,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2024-01-10": 213,
       "2023-12-23": 250,
