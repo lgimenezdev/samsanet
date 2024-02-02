@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.98%",
-    "time": 1641,
-    "timeDay": 781,
-    "timeWeek": 872,
-    "timeMonth": 916,
-    "timeYear": 1932,
+    "time": 1642,
+    "timeDay": 1138,
+    "timeWeek": 875,
+    "timeMonth": 918,
+    "timeYear": 1933,
     "dailyMinutesDown": {
       "2024-01-07": 16,
       "2023-12-23": 248,
@@ -53,8 +53,7 @@
       "2023-03-03": 61,
       "2023-02-14": 108,
       "2023-02-10": 38,
-      "2023-02-03": 129,
-      "2023-02-02": 69
+      "2023-02-03": 129
     }
   },
   {
@@ -63,16 +62,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
     "status": "up",
-    "uptime": "80.03%",
+    "uptime": "80.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "68.00%",
-    "time": 994,
-    "timeDay": 168,
+    "time": 992,
+    "timeDay": 242,
     "timeWeek": 199,
-    "timeMonth": 193,
-    "timeYear": 947,
+    "timeMonth": 194,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2024-01-07": 15,
       "2023-12-23": 248,
@@ -215,8 +214,7 @@
       "2023-03-09": 32,
       "2023-03-03": 60,
       "2023-02-14": 40,
-      "2023-02-03": 24,
-      "2023-02-02": 18
+      "2023-02-03": 24
     }
   },
   {
@@ -230,10 +228,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.22%",
     "uptimeYear": "97.65%",
-    "time": 3356,
-    "timeDay": 2620,
-    "timeWeek": 4688,
-    "timeMonth": 4649,
+    "time": 3351,
+    "timeDay": 1027,
+    "timeWeek": 4687,
+    "timeMonth": 4652,
     "timeYear": 3500,
     "dailyMinutesDown": {
       "2024-01-20": 26,
@@ -283,8 +281,7 @@
       "2023-03-09": 25,
       "2023-03-03": 53,
       "2023-02-14": 107,
-      "2023-02-03": 152,
-      "2023-02-02": 80
+      "2023-02-03": 152
     }
   },
   {
@@ -293,18 +290,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-fibe",
     "status": "down",
-    "uptime": "72.48%",
+    "uptime": "72.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.24%",
+    "uptimeYear": "57.19%",
     "time": 705,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 698,
     "dailyMinutesDown": {
-      "2024-02-01": 1209,
+      "2024-02-02": 74,
+      "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -478,8 +476,7 @@
       "2023-03-01": 30,
       "2023-02-14": 107,
       "2023-02-10": 23,
-      "2023-02-03": 109,
-      "2023-02-02": 79
+      "2023-02-03": 109
     }
   },
   {
@@ -499,7 +496,8 @@
     "timeMonth": 0,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2024-02-01": 1209,
+      "2024-02-02": 74,
+      "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -862,8 +860,7 @@
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
-      "2023-02-03": 1331,
-      "2023-02-02": 1360
+      "2023-02-03": 1331
     }
   },
   {
@@ -872,18 +869,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-claro",
     "status": "up",
-    "uptime": "69.63%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "69.63%",
+    "uptime": "69.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "69.68%",
     "time": 621,
-    "timeDay": 563,
-    "timeWeek": 586,
-    "timeMonth": 592,
+    "timeDay": 607,
+    "timeWeek": 585,
+    "timeMonth": 590,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2024-02-01": 13,
       "2024-01-24": 41,
       "2024-01-23": 4,
       "2024-01-18": 17,
@@ -964,11 +960,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.36%",
-    "time": 890,
-    "timeDay": 1414,
-    "timeWeek": 1545,
-    "timeMonth": 1520,
-    "timeYear": 976,
+    "time": 893,
+    "timeDay": 1730,
+    "timeWeek": 1523,
+    "timeMonth": 1522,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2024-01-10": 213,
       "2023-12-23": 250,
