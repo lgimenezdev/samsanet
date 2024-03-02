@@ -11,9 +11,9 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.01%",
     "time": 1773,
-    "timeDay": 992,
-    "timeWeek": 828,
-    "timeMonth": 897,
+    "timeDay": 701,
+    "timeWeek": 820,
+    "timeMonth": 882,
     "timeYear": 1938,
     "dailyMinutesDown": {
       "2024-02-27": 62,
@@ -52,8 +52,7 @@
       "2023-04-14": 81,
       "2023-03-22": 52,
       "2023-03-09": 32,
-      "2023-03-06": 16,
-      "2023-03-03": 61
+      "2023-03-06": 16
     }
   },
   {
@@ -62,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
     "status": "up",
-    "uptime": "80.91%",
+    "uptime": "80.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.39%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "67.98%",
-    "time": 953,
-    "timeDay": 161,
+    "time": 951,
+    "timeDay": 176,
     "timeWeek": 228,
-    "timeMonth": 302,
-    "timeYear": 523,
+    "timeMonth": 300,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2024-02-27": 62,
       "2024-02-26": 100,
@@ -214,8 +213,7 @@
       "2023-04-14": 81,
       "2023-03-22": 737,
       "2023-03-21": 761,
-      "2023-03-09": 32,
-      "2023-03-03": 60
+      "2023-03-09": 32
     }
   },
   {
@@ -229,11 +227,11 @@
     "uptimeWeek": "92.48%",
     "uptimeMonth": "98.13%",
     "uptimeYear": "97.56%",
-    "time": 3341,
-    "timeDay": 695,
-    "timeWeek": 4094,
-    "timeMonth": 2927,
-    "timeYear": 3503,
+    "time": 3348,
+    "timeDay": 5070,
+    "timeWeek": 2352,
+    "timeMonth": 3053,
+    "timeYear": 3512,
     "dailyMinutesDown": {
       "2024-02-27": 658,
       "2024-02-26": 100,
@@ -284,8 +282,7 @@
       "2023-04-15": 208,
       "2023-04-14": 93,
       "2023-03-22": 51,
-      "2023-03-09": 25,
-      "2023-03-03": 53
+      "2023-03-09": 25
     }
   },
   {
@@ -294,18 +291,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-fibe",
     "status": "down",
-    "uptime": "69.21%",
+    "uptime": "69.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "49.57%",
+    "uptimeYear": "49.31%",
     "time": 710,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2024-03-01": 79,
+      "2024-03-02": 72,
+      "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -503,8 +501,7 @@
       "2023-04-14": 92,
       "2023-04-09": 18,
       "2023-03-22": 43,
-      "2023-03-09": 24,
-      "2023-03-03": 52
+      "2023-03-09": 24
     }
   },
   {
@@ -524,7 +521,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-01": 79,
+      "2024-03-02": 72,
+      "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -887,8 +885,7 @@
       "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
-      "2023-03-04": 1440,
-      "2023-03-03": 1440
+      "2023-03-04": 1440
     }
   },
   {
@@ -897,16 +894,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-claro",
     "status": "up",
-    "uptime": "74.19%",
+    "uptime": "74.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.18%",
+    "uptimeWeek": "98.40%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "74.19%",
-    "time": 614,
-    "timeDay": 503,
-    "timeWeek": 566,
-    "timeMonth": 587,
-    "timeYear": 614,
+    "uptimeYear": "74.33%",
+    "time": 613,
+    "timeDay": 410,
+    "timeWeek": 562,
+    "timeMonth": 581,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2024-02-27": 63,
       "2024-02-26": 99,
@@ -996,11 +993,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.36%",
-    "time": 880,
-    "timeDay": 1419,
-    "timeWeek": 1395,
-    "timeMonth": 1490,
-    "timeYear": 1045,
+    "time": 882,
+    "timeDay": 1288,
+    "timeWeek": 1383,
+    "timeMonth": 1476,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2024-02-17": 15,
       "2024-01-10": 213,
