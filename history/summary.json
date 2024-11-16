@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "intranet",
     "status": "down",
-    "uptime": "80.00%",
+    "uptime": "79.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.46%",
-    "time": 1431,
-    "timeDay": 218,
-    "timeWeek": 198,
-    "timeMonth": 176,
-    "timeYear": 732,
+    "uptimeYear": "52.19%",
+    "time": 1429,
+    "timeDay": 135,
+    "timeWeek": 197,
+    "timeMonth": 172,
+    "timeYear": 730,
     "dailyMinutesDown": {
-      "2024-11-15": 110,
+      "2024-11-16": 108,
+      "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
@@ -205,8 +206,7 @@
       "2023-12-11": 563,
       "2023-12-07": 58,
       "2023-11-24": 67,
-      "2023-11-23": 106,
-      "2023-11-17": 110
+      "2023-11-23": 106
     }
   },
   {
@@ -215,18 +215,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
     "status": "down",
-    "uptime": "67.00%",
+    "uptime": "66.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.39%",
+    "uptimeYear": "52.11%",
     "time": 168,
-    "timeDay": 15,
+    "timeDay": 11,
     "timeWeek": 16,
     "timeMonth": 13,
-    "timeYear": 138,
+    "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-11-15": 110,
+      "2024-11-16": 108,
+      "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
@@ -416,8 +417,7 @@
       "2023-12-11": 563,
       "2023-12-07": 48,
       "2023-11-24": 67,
-      "2023-11-23": 106,
-      "2023-11-17": 109
+      "2023-11-23": 106
     }
   },
   {
@@ -426,18 +426,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "acceso-clientes",
     "status": "down",
-    "uptime": "79.02%",
+    "uptime": "78.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.70%",
-    "time": 2322,
-    "timeDay": 21,
+    "uptimeYear": "51.43%",
+    "time": 2320,
+    "timeDay": 11,
     "timeWeek": 14,
-    "timeMonth": 13,
-    "timeYear": 1866,
+    "timeMonth": 12,
+    "timeYear": 1856,
     "dailyMinutesDown": {
-      "2024-11-15": 110,
+      "2024-11-16": 108,
+      "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
@@ -634,8 +635,7 @@
       "2023-12-07": 47,
       "2023-11-24": 67,
       "2023-11-23": 106,
-      "2023-11-18": 516,
-      "2023-11-17": 308
+      "2023-11-18": 516
     }
   },
   {
@@ -644,18 +644,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-fibe",
     "status": "down",
-    "uptime": "49.97%",
+    "uptime": "49.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "2.26%",
-    "time": 1071,
+    "time": 1078,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2013,
     "dailyMinutesDown": {
-      "2024-11-15": 110,
+      "2024-11-16": 108,
+      "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
@@ -1010,8 +1011,7 @@
       "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
-      "2023-11-18": 1440,
-      "2023-11-17": 1440
+      "2023-11-18": 1440
     }
   },
   {
@@ -1031,7 +1031,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-15": 110,
+      "2024-11-16": 108,
+      "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
@@ -1394,8 +1395,7 @@
       "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
-      "2023-11-18": 1440,
-      "2023-11-17": 1440
+      "2023-11-18": 1440
     }
   },
   {
@@ -1404,7 +1404,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-claro",
     "status": "down",
-    "uptime": "47.66%",
+    "uptime": "47.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1415,7 +1415,8 @@
     "timeMonth": 0,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2024-11-15": 110,
+      "2024-11-16": 108,
+      "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
@@ -1648,8 +1649,7 @@
       "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
-      "2023-11-18": 1440,
-      "2023-11-17": 1440
+      "2023-11-18": 1440
     }
   },
   {
@@ -1658,18 +1658,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/samsa.com.ar.ico",
     "slug": "sitio-web",
     "status": "down",
-    "uptime": "80.03%",
+    "uptime": "79.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.41%",
-    "time": 923,
-    "timeDay": 190,
-    "timeWeek": 143,
-    "timeMonth": 114,
-    "timeYear": 870,
+    "uptimeYear": "52.14%",
+    "time": 915,
+    "timeDay": 80,
+    "timeWeek": 145,
+    "timeMonth": 108,
+    "timeYear": 869,
     "dailyMinutesDown": {
-      "2024-11-15": 110,
+      "2024-11-16": 108,
+      "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
