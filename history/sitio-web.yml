@@ -1,7 +1,7 @@
 url: https://samsa.com.ar
-status: up
-code: 200
-responseTime: 1122
-lastUpdated: 2025-01-20T17:46:58.259Z
+status: down
+code: 403
+responseTime: 65
+lastUpdated: 2025-01-20T17:54:42.870Z
 startTime: 2022-06-15T12:53:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
