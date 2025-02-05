@@ -1,7 +1,7 @@
 url: https://intranet.samsa.com.ar
-status: down
-code: 403
-responseTime: 188
-lastUpdated: 2025-02-05T09:38:57.649Z
+status: up
+code: 200
+responseTime: 548
+lastUpdated: 2025-02-05T10:59:44.446Z
 startTime: 2022-06-15T12:52:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
