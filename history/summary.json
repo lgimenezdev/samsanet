@@ -8,7 +8,7 @@
     "uptime": "97.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "6.92%",
-    "uptimeMonth": "30.08%",
+    "uptimeMonth": "30.06%",
     "uptimeYear": "94.17%",
     "time": 904,
     "timeDay": 179,
@@ -16,7 +16,7 @@
     "timeMonth": 392,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2025-02-09": 1351,
+      "2025-02-09": 1359,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1277,
@@ -50,7 +50,7 @@
     "uptime": "98.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "10.50%",
-    "uptimeMonth": "39.73%",
+    "uptimeMonth": "39.71%",
     "uptimeYear": "94.98%",
     "time": 183,
     "timeDay": 12,
@@ -58,7 +58,7 @@
     "timeMonth": 245,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2025-02-09": 1351,
+      "2025-02-09": 1360,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1150,
@@ -97,7 +97,7 @@
     "timeMonth": 31,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2025-02-09": 1351,
+      "2025-02-09": 1360,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
@@ -387,7 +387,7 @@
     "timeMonth": 0,
     "timeYear": 1492,
     "dailyMinutesDown": {
-      "2025-02-09": 1351,
+      "2025-02-09": 1360,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
@@ -763,7 +763,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-09": 1351,
+      "2025-02-09": 1360,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
@@ -1147,7 +1147,7 @@
     "timeMonth": 0,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2025-02-09": 1351,
+      "2025-02-09": 1360,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
@@ -1439,17 +1439,17 @@
     "url": "https://samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/samsa.com.ar.ico",
     "slug": "sitio-web",
-    "status": "up",
-    "uptime": "98.11%",
-    "uptimeDay": "0.82%",
-    "uptimeWeek": "8.44%",
-    "uptimeMonth": "39.84%",
-    "uptimeYear": "94.99%",
-    "time": 714,
-    "timeDay": 613,
-    "timeWeek": 567,
-    "timeMonth": 536,
-    "timeYear": 573,
+    "status": "down",
+    "uptime": "98.12%",
+    "uptimeDay": "1.42%",
+    "uptimeWeek": "8.53%",
+    "uptimeMonth": "39.97%",
+    "uptimeYear": "95.00%",
+    "time": 709,
+    "timeDay": 510,
+    "timeWeek": 563,
+    "timeMonth": 534,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2025-02-09": 1339,
       "2025-02-08": 1440,
@@ -1470,7 +1470,7 @@
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1432,
-      "2025-01-21": 917
+      "2025-01-21": 861
     }
   }
 ]
