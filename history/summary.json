@@ -4,16 +4,16 @@
     "url": "https://intranet.samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "intranet",
-    "status": "up",
-    "uptime": "95.86%",
-    "uptimeDay": "21.51%",
-    "uptimeWeek": "3.07%",
-    "uptimeMonth": "8.66%",
-    "uptimeYear": "88.64%",
-    "time": 657,
-    "timeDay": 436,
-    "timeWeek": 390,
-    "timeMonth": 305,
+    "status": "down",
+    "uptime": "95.94%",
+    "uptimeDay": "22.06%",
+    "uptimeWeek": "3.15%",
+    "uptimeMonth": "8.68%",
+    "uptimeYear": "88.87%",
+    "time": 656,
+    "timeDay": 428,
+    "timeWeek": 385,
+    "timeMonth": 303,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2025-03-12": 471,
@@ -58,8 +58,7 @@
       "2025-02-01": 1240,
       "2025-01-31": 1198,
       "2025-01-30": 1311,
-      "2025-01-29": 1430,
-      "2025-01-28": 286
+      "2025-01-29": 499
     }
   },
   {
@@ -67,17 +66,17 @@
     "url": "https://intranet.samsa.com.ar/mp/",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
-    "status": "up",
-    "uptime": "95.25%",
-    "uptimeDay": "9.96%",
-    "uptimeWeek": "1.42%",
-    "uptimeMonth": "8.28%",
-    "uptimeYear": "86.98%",
+    "status": "down",
+    "uptime": "95.26%",
+    "uptimeDay": "10.50%",
+    "uptimeWeek": "1.50%",
+    "uptimeMonth": "8.30%",
+    "uptimeYear": "87.00%",
     "time": 177,
-    "timeDay": 273,
-    "timeWeek": 205,
-    "timeMonth": 111,
-    "timeYear": 143,
+    "timeDay": 258,
+    "timeWeek": 196,
+    "timeMonth": 109,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2025-03-12": 593,
       "2025-03-11": 1398,
@@ -128,7 +127,7 @@
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
-      "2025-01-22": 467
+      "2025-01-22": 409
     }
   },
   {
@@ -148,7 +147,7 @@
     "timeMonth": 14,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2025-03-12": 694,
+      "2025-03-12": 702,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -454,7 +453,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-fibe",
     "status": "down",
-    "uptime": "44.11%",
+    "uptime": "44.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -465,7 +464,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-03-12": 694,
+      "2025-03-12": 702,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -841,7 +840,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 694,
+      "2025-03-12": 702,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -1225,7 +1224,7 @@
     "timeMonth": 0,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2025-03-12": 694,
+      "2025-03-12": 702,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -1553,7 +1552,7 @@
     "timeMonth": 305,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2025-03-12": 597,
+      "2025-03-12": 605,
       "2025-03-11": 1432,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
