@@ -9,14 +9,14 @@
     "uptimeDay": "34.29%",
     "uptimeWeek": "9.03%",
     "uptimeMonth": "10.03%",
-    "uptimeYear": "88.64%",
+    "uptimeYear": "88.63%",
     "time": 471,
     "timeDay": 431,
     "timeWeek": 413,
     "timeMonth": 363,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-03-15": 641,
+      "2025-03-15": 669,
       "2025-03-14": 1374,
       "2025-03-13": 1440,
       "2025-03-12": 1110,
@@ -67,16 +67,16 @@
     "url": "https://intranet.samsa.com.ar/mp/",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
-    "status": "up",
-    "uptime": "95.85%",
-    "uptimeDay": "10.13%",
-    "uptimeWeek": "5.01%",
-    "uptimeMonth": "9.11%",
-    "uptimeYear": "88.57%",
+    "status": "down",
+    "uptime": "95.87%",
+    "uptimeDay": "12.07%",
+    "uptimeWeek": "5.29%",
+    "uptimeMonth": "9.17%",
+    "uptimeYear": "88.63%",
     "time": 171,
-    "timeDay": 309,
-    "timeWeek": 268,
-    "timeMonth": 205,
+    "timeDay": 299,
+    "timeWeek": 264,
+    "timeMonth": 203,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2025-03-15": 968,
@@ -122,7 +122,7 @@
       "2025-02-03": 1248,
       "2025-02-02": 1247,
       "2025-02-01": 1210,
-      "2025-01-31": 462
+      "2025-01-31": 143
     }
   },
   {
@@ -142,7 +142,7 @@
     "timeMonth": 68,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2025-03-15": 1025,
+      "2025-03-15": 1053,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -462,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-03-15": 1068,
+      "2025-03-15": 1096,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -838,7 +838,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 1068,
+      "2025-03-15": 1096,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1211,7 +1211,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-claro",
     "status": "down",
-    "uptime": "37.45%",
+    "uptime": "37.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1222,7 +1222,7 @@
     "timeMonth": 0,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2025-03-15": 1068,
+      "2025-03-15": 1096,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1543,17 +1543,17 @@
     "slug": "sitio-web",
     "status": "up",
     "uptime": "95.87%",
-    "uptimeDay": "20.70%",
-    "uptimeWeek": "5.62%",
-    "uptimeMonth": "9.25%",
-    "uptimeYear": "88.64%",
+    "uptimeDay": "23.20%",
+    "uptimeWeek": "5.98%",
+    "uptimeMonth": "9.33%",
+    "uptimeYear": "88.63%",
     "time": 712,
     "timeDay": 1738,
     "timeWeek": 1299,
     "timeMonth": 1016,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2025-03-15": 819,
+      "2025-03-15": 811,
       "2025-03-14": 1385,
       "2025-03-13": 1440,
       "2025-03-12": 1185,
@@ -1596,7 +1596,7 @@
       "2025-02-03": 1228,
       "2025-02-02": 1148,
       "2025-02-01": 1129,
-      "2025-01-31": 163
+      "2025-01-31": 262
     }
   }
 ]
