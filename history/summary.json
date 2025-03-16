@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "intranet",
     "status": "up",
-    "uptime": "95.90%",
-    "uptimeDay": "30.40%",
-    "uptimeWeek": "10.64%",
-    "uptimeMonth": "10.40%",
-    "uptimeYear": "88.70%",
+    "uptime": "95.89%",
+    "uptimeDay": "31.50%",
+    "uptimeWeek": "10.79%",
+    "uptimeMonth": "10.44%",
+    "uptimeYear": "88.68%",
     "time": 691,
     "timeDay": 440,
     "timeWeek": 420,
     "timeMonth": 377,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2025-03-16": 287,
+      "2025-03-16": 279,
       "2025-03-15": 912,
       "2025-03-14": 1374,
       "2025-03-13": 1440,
@@ -59,7 +59,7 @@
       "2025-02-04": 1254,
       "2025-02-03": 1348,
       "2025-02-02": 1266,
-      "2025-02-01": 498
+      "2025-02-01": 606
     }
   },
   {
@@ -67,17 +67,17 @@
     "url": "https://intranet.samsa.com.ar/mp/",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
-    "status": "up",
+    "status": "down",
     "uptime": "95.90%",
-    "uptimeDay": "30.06%",
-    "uptimeWeek": "8.30%",
-    "uptimeMonth": "9.86%",
-    "uptimeYear": "88.70%",
-    "time": 164,
-    "timeDay": 246,
-    "timeWeek": 250,
-    "timeMonth": 202,
-    "timeYear": 153,
+    "uptimeDay": "30.58%",
+    "uptimeWeek": "8.37%",
+    "uptimeMonth": "9.88%",
+    "uptimeYear": "88.71%",
+    "time": 163,
+    "timeDay": 239,
+    "timeWeek": 247,
+    "timeMonth": 200,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2025-03-16": 171,
       "2025-03-15": 1186,
@@ -122,7 +122,7 @@
       "2025-02-04": 1225,
       "2025-02-03": 1248,
       "2025-02-02": 1247,
-      "2025-02-01": 598
+      "2025-02-01": 580
     }
   },
   {
@@ -142,7 +142,7 @@
     "timeMonth": 68,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2025-03-16": 348,
+      "2025-03-16": 355,
       "2025-03-15": 1398,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -463,7 +463,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-03-16": 348,
+      "2025-03-16": 355,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -839,7 +839,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-16": 348,
+      "2025-03-16": 355,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -1223,7 +1223,7 @@
     "timeMonth": 0,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2025-03-16": 348,
+      "2025-03-16": 355,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -1545,17 +1545,17 @@
     "slug": "sitio-web",
     "status": "up",
     "uptime": "95.91%",
-    "uptimeDay": "25.23%",
-    "uptimeWeek": "7.35%",
-    "uptimeMonth": "9.65%",
-    "uptimeYear": "88.74%",
+    "uptimeDay": "26.34%",
+    "uptimeWeek": "7.51%",
+    "uptimeMonth": "9.68%",
+    "uptimeYear": "88.73%",
     "time": 691,
     "timeDay": 563,
     "timeWeek": 1139,
     "timeMonth": 936,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2025-03-16": 287,
+      "2025-03-16": 279,
       "2025-03-15": 1079,
       "2025-03-14": 1385,
       "2025-03-13": 1440,
@@ -1598,7 +1598,7 @@
       "2025-02-04": 1156,
       "2025-02-03": 1228,
       "2025-02-02": 1148,
-      "2025-02-01": 249
+      "2025-02-01": 303
     }
   }
 ]
