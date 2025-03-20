@@ -4,15 +4,15 @@
     "url": "https://intranet.samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "intranet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "54.30%",
-    "uptimeWeek": "29.52%",
-    "uptimeMonth": "80.34%",
-    "uptimeYear": "98.36%",
-    "time": 435,
-    "timeDay": 472,
-    "timeWeek": 426,
+    "uptimeDay": "54.55%",
+    "uptimeWeek": "29.60%",
+    "uptimeMonth": "80.42%",
+    "uptimeYear": "98.37%",
+    "time": 434,
+    "timeDay": 462,
+    "timeWeek": 425,
     "timeMonth": 409,
     "timeYear": 378,
     "dailyMinutesDown": {
@@ -24,7 +24,7 @@
       "2025-03-15": 912,
       "2025-03-14": 1374,
       "2025-03-13": 1440,
-      "2025-03-12": 927
+      "2025-03-12": 891
     }
   },
   {
@@ -32,16 +32,16 @@
     "url": "https://intranet.samsa.com.ar/mp/",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
-    "status": "up",
-    "uptime": "96.06%",
-    "uptimeDay": "57.42%",
-    "uptimeWeek": "25.73%",
-    "uptimeMonth": "14.69%",
-    "uptimeYear": "89.11%",
-    "time": 186,
-    "timeDay": 205,
-    "timeWeek": 251,
-    "timeMonth": 236,
+    "status": "down",
+    "uptime": "96.07%",
+    "uptimeDay": "57.95%",
+    "uptimeWeek": "25.80%",
+    "uptimeMonth": "14.71%",
+    "uptimeYear": "89.13%",
+    "time": 185,
+    "timeDay": 201,
+    "timeWeek": 250,
+    "timeMonth": 235,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2025-03-20": 222,
@@ -86,7 +86,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 564
+      "2025-02-06": 461
     }
   },
   {
@@ -99,14 +99,14 @@
     "uptimeDay": "2.63%",
     "uptimeWeek": "1.19%",
     "uptimeMonth": "8.23%",
-    "uptimeYear": "18.38%",
+    "uptimeYear": "18.37%",
     "time": 1209,
     "timeDay": 551,
     "timeWeek": 766,
     "timeMonth": 391,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-03-20": 553,
+      "2025-03-20": 561,
       "2025-03-19": 1398,
       "2025-03-18": 1440,
       "2025-03-17": 1432,
@@ -429,7 +429,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-03-20": 581,
+      "2025-03-20": 589,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -805,7 +805,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-20": 581,
+      "2025-03-20": 589,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -1189,7 +1189,7 @@
     "timeMonth": 0,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-03-20": 581,
+      "2025-03-20": 589,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -1512,17 +1512,17 @@
     "url": "https://samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/samsa.com.ar.ico",
     "slug": "sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "48.31%",
-    "uptimeWeek": "25.54%",
-    "uptimeMonth": "79.95%",
+    "uptimeDay": "48.82%",
+    "uptimeWeek": "25.61%",
+    "uptimeMonth": "79.99%",
     "uptimeYear": "98.33%",
     "time": 699,
-    "timeDay": 637,
-    "timeWeek": 831,
-    "timeMonth": 754,
-    "timeYear": 580,
+    "timeDay": 625,
+    "timeWeek": 828,
+    "timeMonth": 752,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2025-03-20": 308,
       "2025-03-19": 856,
@@ -1532,7 +1532,7 @@
       "2025-03-15": 1079,
       "2025-03-14": 1385,
       "2025-03-13": 1440,
-      "2025-03-12": 692
+      "2025-03-12": 677
     }
   }
 ]
