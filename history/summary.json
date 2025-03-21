@@ -6,7 +6,7 @@
     "slug": "intranet",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "42.73%",
+    "uptimeDay": "43.39%",
     "uptimeWeek": "47.07%",
     "uptimeMonth": "87.82%",
     "uptimeYear": "98.98%",
@@ -30,16 +30,16 @@
     "url": "https://intranet.samsa.com.ar/mp/",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "59.51%",
-    "uptimeWeek": "45.27%",
-    "uptimeMonth": "87.41%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "59.86%",
+    "uptimeWeek": "45.82%",
+    "uptimeMonth": "87.53%",
+    "uptimeYear": "98.96%",
     "time": 198,
-    "timeDay": 273,
-    "timeWeek": 255,
-    "timeMonth": 242,
+    "timeDay": 261,
+    "timeWeek": 254,
+    "timeMonth": 241,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2025-03-21": 322,
@@ -48,7 +48,7 @@
       "2025-03-18": 1133,
       "2025-03-17": 987,
       "2025-03-16": 944,
-      "2025-03-15": 730
+      "2025-03-15": 674
     }
   },
   {
@@ -68,7 +68,7 @@
     "timeMonth": 408,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2025-03-21": 830,
+      "2025-03-21": 839,
       "2025-03-20": 1384,
       "2025-03-19": 1398,
       "2025-03-18": 1440,
@@ -392,7 +392,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-03-21": 875,
+      "2025-03-21": 884,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -768,7 +768,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-21": 875,
+      "2025-03-21": 884,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -1152,7 +1152,7 @@
     "timeMonth": 0,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2025-03-21": 875,
+      "2025-03-21": 884,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -1478,7 +1478,7 @@
     "slug": "sitio-web",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "49.49%",
+    "uptimeDay": "50.15%",
     "uptimeWeek": "47.89%",
     "uptimeMonth": "88.01%",
     "uptimeYear": "99.00%",
