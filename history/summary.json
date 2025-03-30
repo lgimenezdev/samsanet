@@ -6,8 +6,8 @@
     "slug": "intranet",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "55.95%",
-    "uptimeWeek": "29.05%",
+    "uptimeDay": "56.49%",
+    "uptimeWeek": "29.13%",
     "uptimeMonth": "75.14%",
     "uptimeYear": "97.93%",
     "time": 501,
@@ -37,9 +37,9 @@
     "slug": "mp",
     "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "59.87%",
+    "uptimeDay": "59.33%",
     "uptimeWeek": "26.91%",
-    "uptimeMonth": "75.49%",
+    "uptimeMonth": "75.47%",
     "uptimeYear": "97.96%",
     "time": 204,
     "timeDay": 226,
@@ -47,7 +47,7 @@
     "timeMonth": 241,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-03-30": 307,
+      "2025-03-30": 315,
       "2025-03-29": 488,
       "2025-03-28": 816,
       "2025-03-27": 828,
@@ -78,7 +78,7 @@
     "timeMonth": 492,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2025-03-30": 516,
+      "2025-03-30": 524,
       "2025-03-29": 1440,
       "2025-03-28": 1424,
       "2025-03-27": 1417,
@@ -411,7 +411,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-03-30": 532,
+      "2025-03-30": 540,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -787,7 +787,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-30": 532,
+      "2025-03-30": 540,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1171,7 +1171,7 @@
     "timeMonth": 0,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2025-03-30": 532,
+      "2025-03-30": 540,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1502,16 +1502,16 @@
     "url": "https://samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/samsa.com.ar.ico",
     "slug": "sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "58.98%",
-    "uptimeWeek": "28.15%",
-    "uptimeMonth": "75.08%",
-    "uptimeYear": "97.92%",
-    "time": 672,
-    "timeDay": 634,
-    "timeWeek": 605,
-    "timeMonth": 685,
+    "uptimeDay": "59.50%",
+    "uptimeWeek": "28.22%",
+    "uptimeMonth": "75.16%",
+    "uptimeYear": "97.93%",
+    "time": 671,
+    "timeDay": 622,
+    "timeWeek": 603,
+    "timeMonth": 684,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2025-03-30": 213,
@@ -1525,7 +1525,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 765,
       "2025-03-20": 784,
-      "2025-03-19": 157
+      "2025-03-19": 121
     }
   }
 ]
