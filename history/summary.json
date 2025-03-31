@@ -6,12 +6,12 @@
     "slug": "intranet",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "47.61%",
-    "uptimeWeek": "34.86%",
+    "uptimeDay": "47.71%",
+    "uptimeWeek": "34.94%",
     "uptimeMonth": "75.11%",
     "uptimeYear": "97.93%",
     "time": 436,
-    "timeDay": 431,
+    "timeDay": 436,
     "timeWeek": 452,
     "timeMonth": 430,
     "timeYear": 391,
@@ -35,16 +35,16 @@
     "url": "https://intranet.samsa.com.ar/mp/",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "52.62%",
-    "uptimeWeek": "32.79%",
-    "uptimeMonth": "75.47%",
+    "uptimeDay": "52.60%",
+    "uptimeWeek": "32.86%",
+    "uptimeMonth": "75.57%",
     "uptimeYear": "97.96%",
     "time": 198,
-    "timeDay": 225,
-    "timeWeek": 240,
-    "timeMonth": 241,
+    "timeDay": 220,
+    "timeWeek": 239,
+    "timeMonth": 240,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2025-03-31": 135,
@@ -57,8 +57,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 755,
-      "2025-03-20": 44
+      "2025-03-21": 755
     }
   },
   {
@@ -78,7 +77,7 @@
     "timeMonth": 496,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2025-03-31": 290,
+      "2025-03-31": 298,
       "2025-03-30": 1401,
       "2025-03-29": 1440,
       "2025-03-28": 1424,
@@ -412,7 +411,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-03-31": 290,
+      "2025-03-31": 298,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -788,7 +787,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-31": 290,
+      "2025-03-31": 298,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -1172,7 +1171,7 @@
     "timeMonth": 0,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2025-03-31": 290,
+      "2025-03-31": 298,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -1506,9 +1505,9 @@
     "slug": "sitio-web",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "49.82%",
-    "uptimeWeek": "34.05%",
-    "uptimeMonth": "74.94%",
+    "uptimeDay": "50.49%",
+    "uptimeWeek": "34.22%",
+    "uptimeMonth": "74.89%",
     "uptimeYear": "97.91%",
     "time": 675,
     "timeDay": 603,
@@ -1516,7 +1515,7 @@
     "timeMonth": 678,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2025-03-31": 245,
+      "2025-03-31": 235,
       "2025-03-30": 574,
       "2025-03-29": 675,
       "2025-03-28": 613,
@@ -1527,7 +1526,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 765,
-      "2025-03-20": 396
+      "2025-03-20": 427
     }
   }
 ]
