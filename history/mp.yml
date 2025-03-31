@@ -1,7 +1,7 @@
 url: https://intranet.samsa.com.ar/mp/
-status: down
-code: 403
-responseTime: 16
-lastUpdated: 2025-03-31T06:41:27.456Z
+status: up
+code: 200
+responseTime: 699
+lastUpdated: 2025-03-31T07:28:00.519Z
 startTime: 2022-06-15T12:52:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
