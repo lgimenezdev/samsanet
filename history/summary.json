@@ -32,19 +32,19 @@
     "url": "https://intranet.samsa.com.ar/mp/",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "88.80%",
+    "uptimeDay": "88.31%",
     "uptimeWeek": "65.43%",
-    "uptimeMonth": "91.48%",
+    "uptimeMonth": "91.46%",
     "uptimeYear": "99.29%",
     "time": 194,
-    "timeDay": 179,
-    "timeWeek": 220,
+    "timeDay": 186,
+    "timeWeek": 221,
     "timeMonth": 233,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-04-04": 61,
+      "2025-04-04": 69,
       "2025-04-03": 102,
       "2025-04-02": 346,
       "2025-04-01": 385,
@@ -72,7 +72,7 @@
     "timeMonth": 964,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2025-04-04": 134,
+      "2025-04-04": 142,
       "2025-04-03": 1034,
       "2025-04-02": 721,
       "2025-04-01": 1176,
@@ -410,7 +410,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-04-04": 470,
+      "2025-04-04": 478,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -786,7 +786,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 470,
+      "2025-04-04": 478,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1170,7 +1170,7 @@
     "timeMonth": 0,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-04-04": 471,
+      "2025-04-04": 478,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1508,17 +1508,17 @@
     "slug": "sitio-web",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "88.68%",
-    "uptimeWeek": "69.89%",
-    "uptimeMonth": "91.48%",
+    "uptimeDay": "89.80%",
+    "uptimeWeek": "70.03%",
+    "uptimeMonth": "91.43%",
     "uptimeYear": "99.29%",
     "time": 643,
     "timeDay": 656,
-    "timeWeek": 617,
+    "timeWeek": 619,
     "timeMonth": 670,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2025-04-04": 79,
+      "2025-04-04": 71,
       "2025-04-03": 131,
       "2025-04-02": 196,
       "2025-04-01": 253,
@@ -1526,7 +1526,7 @@
       "2025-03-30": 574,
       "2025-03-29": 675,
       "2025-03-28": 613,
-      "2025-03-27": 467
+      "2025-03-27": 495
     }
   }
 ]
