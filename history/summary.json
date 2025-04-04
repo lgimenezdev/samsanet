@@ -35,7 +35,7 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "91.22%",
-    "uptimeWeek": "67.40%",
+    "uptimeWeek": "67.65%",
     "uptimeMonth": "91.39%",
     "uptimeYear": "99.28%",
     "time": 193,
@@ -71,7 +71,7 @@
     "timeMonth": 927,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2025-04-04": 396,
+      "2025-04-04": 421,
       "2025-04-03": 1034,
       "2025-04-02": 721,
       "2025-04-01": 1176,
@@ -409,7 +409,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-04-04": 924,
+      "2025-04-04": 949,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -785,7 +785,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 924,
+      "2025-04-04": 949,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1162,14 +1162,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.03%",
+    "uptimeYear": "11.02%",
     "time": 581,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-04-04": 924,
+      "2025-04-04": 949,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1505,16 +1505,16 @@
     "url": "https://samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/samsa.com.ar.ico",
     "slug": "sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "91.83%",
-    "uptimeWeek": "70.92%",
-    "uptimeMonth": "91.45%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "91.80%",
+    "uptimeWeek": "70.98%",
+    "uptimeMonth": "91.58%",
+    "uptimeYear": "99.30%",
     "time": 664,
     "timeDay": 624,
     "timeWeek": 618,
-    "timeMonth": 670,
+    "timeMonth": 669,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2025-04-04": 91,
@@ -1525,7 +1525,7 @@
       "2025-03-30": 574,
       "2025-03-29": 675,
       "2025-03-28": 613,
-      "2025-03-27": 467
+      "2025-03-27": 409
     }
   }
 ]
