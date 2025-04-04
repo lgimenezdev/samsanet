@@ -4,14 +4,14 @@
     "url": "https://intranet.samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "intranet",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "82.77%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "82.76%",
     "uptimeWeek": "66.95%",
-    "uptimeMonth": "91.31%",
-    "uptimeYear": "99.28%",
-    "time": 548,
-    "timeDay": 442,
+    "uptimeMonth": "91.44%",
+    "uptimeYear": "99.29%",
+    "time": 544,
+    "timeDay": 431,
     "timeWeek": 449,
     "timeMonth": 433,
     "timeYear": 394,
@@ -24,7 +24,7 @@
       "2025-03-30": 643,
       "2025-03-29": 663,
       "2025-03-28": 733,
-      "2025-03-27": 139
+      "2025-03-27": 78
     }
   },
   {
@@ -34,13 +34,13 @@
     "slug": "mp",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "90.29%",
+    "uptimeDay": "90.44%",
     "uptimeWeek": "66.12%",
     "uptimeMonth": "91.43%",
     "uptimeYear": "99.29%",
     "time": 193,
-    "timeDay": 170,
-    "timeWeek": 219,
+    "timeDay": 167,
+    "timeWeek": 218,
     "timeMonth": 233,
     "timeYear": 191,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
     "timeMonth": 947,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-04-04": 245,
+      "2025-04-04": 259,
       "2025-04-03": 1034,
       "2025-04-02": 721,
       "2025-04-01": 1176,
@@ -410,7 +410,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-04-04": 672,
+      "2025-04-04": 686,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -786,7 +786,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 672,
+      "2025-04-04": 686,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1170,7 +1170,7 @@
     "timeMonth": 0,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-04-04": 672,
+      "2025-04-04": 686,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
