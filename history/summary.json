@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "86.95%",
-    "uptimeWeek": "69.55%",
+    "uptimeWeek": "69.63%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "99.28%",
     "time": 511,
@@ -32,15 +32,15 @@
     "url": "https://intranet.samsa.com.ar/mp/",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "88.58%",
-    "uptimeWeek": "69.64%",
-    "uptimeMonth": "91.69%",
+    "uptimeDay": "88.57%",
+    "uptimeWeek": "69.63%",
+    "uptimeMonth": "91.73%",
     "uptimeYear": "99.31%",
     "time": 204,
     "timeDay": 189,
-    "timeWeek": 213,
+    "timeWeek": 211,
     "timeMonth": 232,
     "timeYear": 191,
     "dailyMinutesDown": {
@@ -51,7 +51,7 @@
       "2025-03-31": 735,
       "2025-03-30": 780,
       "2025-03-29": 488,
-      "2025-03-28": 647
+      "2025-03-28": 628
     }
   },
   {
@@ -71,7 +71,7 @@
     "timeMonth": 1000,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2025-04-04": 627,
+      "2025-04-04": 635,
       "2025-04-03": 1034,
       "2025-04-02": 721,
       "2025-04-01": 1176,
@@ -409,7 +409,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-04-04": 1307,
+      "2025-04-04": 1315,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -785,7 +785,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 1307,
+      "2025-04-04": 1315,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1169,7 +1169,7 @@
     "timeMonth": 0,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-04-04": 1307,
+      "2025-04-04": 1315,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1512,8 +1512,8 @@
     "uptimeMonth": "91.52%",
     "uptimeYear": "99.29%",
     "time": 665,
-    "timeDay": 672,
-    "timeWeek": 622,
+    "timeDay": 643,
+    "timeWeek": 620,
     "timeMonth": 670,
     "timeYear": 577,
     "dailyMinutesDown": {
