@@ -6,9 +6,9 @@
     "slug": "intranet",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "78.77%",
-    "uptimeWeek": "64.52%",
-    "uptimeMonth": "91.21%",
+    "uptimeDay": "79.74%",
+    "uptimeWeek": "64.74%",
+    "uptimeMonth": "91.20%",
     "uptimeYear": "99.27%",
     "time": 553,
     "timeDay": 440,
@@ -16,7 +16,7 @@
     "timeMonth": 433,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2025-04-04": 109,
+      "2025-04-04": 95,
       "2025-04-03": 198,
       "2025-04-02": 143,
       "2025-04-01": 537,
@@ -24,7 +24,7 @@
       "2025-03-30": 643,
       "2025-03-29": 663,
       "2025-03-28": 733,
-      "2025-03-27": 206
+      "2025-03-27": 227
     }
   },
   {
@@ -34,17 +34,16 @@
     "slug": "mp",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "92.03%",
-    "uptimeWeek": "64.92%",
-    "uptimeMonth": "91.32%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "93.00%",
+    "uptimeWeek": "65.14%",
+    "uptimeMonth": "91.28%",
+    "uptimeYear": "99.27%",
     "time": 194,
     "timeDay": 165,
     "timeWeek": 223,
     "timeMonth": 234,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-04-04": 14,
       "2025-04-03": 102,
       "2025-04-02": 346,
       "2025-04-01": 385,
@@ -52,7 +51,7 @@
       "2025-03-30": 780,
       "2025-03-29": 488,
       "2025-03-28": 816,
-      "2025-03-27": 143
+      "2025-03-27": 175
     }
   },
   {
@@ -60,17 +59,17 @@
     "url": "https://intranet.samsa.com.ar/apex/f?p=1000",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "acceso-clientes",
-    "status": "up",
-    "uptime": "68.84%",
-    "uptimeDay": "36.97%",
-    "uptimeWeek": "16.46%",
-    "uptimeMonth": "2.44%",
+    "status": "down",
+    "uptime": "68.85%",
+    "uptimeDay": "37.50%",
+    "uptimeWeek": "16.53%",
+    "uptimeMonth": "2.45%",
     "uptimeYear": "14.67%",
-    "time": 1264,
-    "timeDay": 1171,
-    "timeWeek": 1149,
-    "timeMonth": 991,
-    "timeYear": 632,
+    "time": 1262,
+    "timeDay": 1146,
+    "timeWeek": 1141,
+    "timeMonth": 986,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2025-04-04": 40,
       "2025-04-03": 1034,
@@ -410,7 +409,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-04-04": 232,
+      "2025-04-04": 240,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -786,7 +785,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 232,
+      "2025-04-04": 240,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1170,7 +1169,7 @@
     "timeMonth": 0,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-04-04": 232,
+      "2025-04-04": 240,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
