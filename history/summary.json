@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "87.78%",
-    "uptimeWeek": "74.41%",
+    "uptimeWeek": "74.42%",
     "uptimeMonth": "91.59%",
     "uptimeYear": "99.30%",
     "time": 479,
     "timeDay": 446,
-    "timeWeek": 439,
+    "timeWeek": 437,
     "timeMonth": 434,
     "timeYear": 395,
     "dailyMinutesDown": {
@@ -32,15 +32,15 @@
     "url": "https://intranet.samsa.com.ar/mp/",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "94.98%",
+    "uptimeDay": "94.97%",
     "uptimeWeek": "73.85%",
-    "uptimeMonth": "91.82%",
+    "uptimeMonth": "91.89%",
     "uptimeYear": "99.32%",
-    "time": 204,
-    "timeDay": 139,
-    "timeWeek": 201,
+    "time": 203,
+    "timeDay": 132,
+    "timeWeek": 200,
     "timeMonth": 231,
     "timeYear": 190,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
       "2025-03-31": 735,
       "2025-03-30": 780,
       "2025-03-29": 488,
-      "2025-03-28": 536
+      "2025-03-28": 504
     }
   },
   {
@@ -62,7 +62,7 @@
     "slug": "acceso-clientes",
     "status": "down",
     "uptime": "69.52%",
-    "uptimeDay": "32.45%",
+    "uptimeDay": "31.90%",
     "uptimeWeek": "25.19%",
     "uptimeMonth": "4.48%",
     "uptimeYear": "14.39%",
@@ -72,7 +72,7 @@
     "timeMonth": 987,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2025-04-05": 792,
+      "2025-04-05": 800,
       "2025-04-04": 736,
       "2025-04-03": 1034,
       "2025-04-02": 721,
@@ -410,7 +410,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-04-05": 1177,
+      "2025-04-05": 1185,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -786,7 +786,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 1177,
+      "2025-04-05": 1185,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -1159,7 +1159,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-claro",
     "status": "down",
-    "uptime": "36.10%",
+    "uptime": "36.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1170,7 +1170,7 @@
     "timeMonth": 0,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2025-04-05": 1177,
+      "2025-04-05": 1185,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -1509,17 +1509,17 @@
     "slug": "sitio-web",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "96.70%",
-    "uptimeWeek": "79.01%",
-    "uptimeMonth": "91.65%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "79.11%",
+    "uptimeMonth": "91.55%",
     "uptimeYear": "99.30%",
     "time": 667,
     "timeDay": 624,
-    "timeWeek": 622,
+    "timeWeek": 625,
     "timeMonth": 670,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2025-04-05": 47,
+      "2025-04-05": 38,
       "2025-04-04": 119,
       "2025-04-03": 131,
       "2025-04-02": 196,
@@ -1528,7 +1528,7 @@
       "2025-03-30": 574,
       "2025-03-29": 675,
       "2025-03-28": 613,
-      "2025-03-27": 305
+      "2025-03-27": 355
     }
   }
 ]
