@@ -6,17 +6,16 @@
     "slug": "intranet",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "91.72%",
-    "uptimeWeek": "75.46%",
-    "uptimeMonth": "91.72%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "92.76%",
+    "uptimeWeek": "75.61%",
+    "uptimeMonth": "91.65%",
+    "uptimeYear": "99.30%",
     "time": 460,
     "timeDay": 444,
-    "timeWeek": 437,
+    "timeWeek": 438,
     "timeMonth": 434,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2025-04-06": 15,
       "2025-04-05": 194,
       "2025-04-04": 166,
       "2025-04-03": 198,
@@ -25,7 +24,7 @@
       "2025-03-31": 624,
       "2025-03-30": 643,
       "2025-03-29": 663,
-      "2025-03-28": 451
+      "2025-03-28": 497
     }
   },
   {
@@ -33,15 +32,15 @@
     "url": "https://intranet.samsa.com.ar/mp/",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "89.24%",
+    "uptimeDay": "89.23%",
     "uptimeWeek": "75.70%",
-    "uptimeMonth": "92.23%",
-    "uptimeYear": "99.35%",
+    "uptimeMonth": "92.34%",
+    "uptimeYear": "99.36%",
     "time": 197,
-    "timeDay": 146,
-    "timeWeek": 196,
+    "timeDay": 142,
+    "timeWeek": 195,
     "timeMonth": 229,
     "timeYear": 190,
     "dailyMinutesDown": {
@@ -54,7 +53,7 @@
       "2025-03-31": 735,
       "2025-03-30": 780,
       "2025-03-29": 488,
-      "2025-03-28": 237
+      "2025-03-28": 189
     }
   },
   {
@@ -64,8 +63,8 @@
     "slug": "acceso-clientes",
     "status": "up",
     "uptime": "98.31%",
-    "uptimeDay": "37.24%",
-    "uptimeWeek": "27.28%",
+    "uptimeDay": "37.77%",
+    "uptimeWeek": "27.35%",
     "uptimeMonth": "43.07%",
     "uptimeYear": "95.26%",
     "time": 1241,
@@ -114,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-04-06": 290,
+      "2025-04-06": 297,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -490,7 +489,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-06": 290,
+      "2025-04-06": 298,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -874,7 +873,7 @@
     "timeMonth": 0,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2025-04-06": 290,
+      "2025-04-06": 298,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
