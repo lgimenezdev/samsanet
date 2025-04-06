@@ -4,18 +4,19 @@
     "url": "https://intranet.samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "intranet",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "94.06%",
-    "uptimeWeek": "75.80%",
-    "uptimeMonth": "91.65%",
-    "uptimeYear": "99.30%",
-    "time": 460,
-    "timeDay": 453,
-    "timeWeek": 438,
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "94.15%",
+    "uptimeWeek": "75.96%",
+    "uptimeMonth": "91.76%",
+    "uptimeYear": "99.31%",
+    "time": 459,
+    "timeDay": 421,
+    "timeWeek": 437,
     "timeMonth": 434,
     "timeYear": 395,
     "dailyMinutesDown": {
+      "2025-04-06": 0,
       "2025-04-05": 194,
       "2025-04-04": 166,
       "2025-04-03": 198,
@@ -24,7 +25,7 @@
       "2025-03-31": 624,
       "2025-03-30": 643,
       "2025-03-29": 663,
-      "2025-03-28": 497
+      "2025-03-28": 451
     }
   },
   {
@@ -40,7 +41,7 @@
     "uptimeYear": "99.36%",
     "time": 197,
     "timeDay": 143,
-    "timeWeek": 195,
+    "timeWeek": 196,
     "timeMonth": 229,
     "timeYear": 190,
     "dailyMinutesDown": {
@@ -61,17 +62,17 @@
     "url": "https://intranet.samsa.com.ar/apex/f?p=1000",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "acceso-clientes",
-    "status": "up",
-    "uptime": "98.31%",
-    "uptimeDay": "39.08%",
-    "uptimeWeek": "27.52%",
-    "uptimeMonth": "43.07%",
-    "uptimeYear": "95.26%",
-    "time": 1241,
-    "timeDay": 1173,
+    "status": "down",
+    "uptime": "98.44%",
+    "uptimeDay": "40.17%",
+    "uptimeWeek": "27.53%",
+    "uptimeMonth": "47.47%",
+    "uptimeYear": "95.62%",
+    "time": 1233,
+    "timeDay": 1150,
     "timeWeek": 1119,
-    "timeMonth": 1014,
-    "timeYear": 688,
+    "timeMonth": 1010,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2025-04-06": 213,
       "2025-04-05": 921,
@@ -91,9 +92,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 1376,
       "2025-03-20": 1384,
-      "2025-03-19": 1398,
-      "2025-03-18": 1440,
-      "2025-03-17": 249
+      "2025-03-19": 1160
     }
   },
   {
@@ -113,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-04-06": 316,
+      "2025-04-06": 332,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -489,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-06": 316,
+      "2025-04-06": 332,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -873,7 +872,7 @@
     "timeMonth": 0,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2025-04-06": 316,
+      "2025-04-06": 332,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
