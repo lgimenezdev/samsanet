@@ -66,16 +66,16 @@
     "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "22.14%",
-    "uptimeWeek": "48.14%",
-    "uptimeMonth": "88.07%",
-    "uptimeYear": "99.01%",
+    "uptimeWeek": "47.95%",
+    "uptimeMonth": "88.02%",
+    "uptimeYear": "99.00%",
     "time": 1149,
     "timeDay": 1190,
     "timeWeek": 1146,
     "timeMonth": 1043,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2025-04-07": 777,
+      "2025-04-07": 796,
       "2025-04-06": 1075,
       "2025-04-05": 921,
       "2025-04-04": 736,
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-04-07": 1031,
+      "2025-04-07": 1050,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -476,7 +476,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-07": 1031,
+      "2025-04-07": 1050,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -860,7 +860,7 @@
     "timeMonth": 0,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-04-07": 1031,
+      "2025-04-07": 1050,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -1199,16 +1199,16 @@
     "url": "https://samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/samsa.com.ar.ico",
     "slug": "sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "92.82%",
-    "uptimeWeek": "88.68%",
-    "uptimeMonth": "92.24%",
-    "uptimeYear": "99.35%",
-    "time": 658,
-    "timeDay": 647,
-    "timeWeek": 630,
-    "timeMonth": 669,
+    "uptimeDay": "92.79%",
+    "uptimeWeek": "88.87%",
+    "uptimeMonth": "92.28%",
+    "uptimeYear": "99.36%",
+    "time": 657,
+    "timeDay": 631,
+    "timeWeek": 628,
+    "timeMonth": 668,
     "timeYear": 577,
     "dailyMinutesDown": {
       "2025-04-07": 102,
@@ -1221,7 +1221,7 @@
       "2025-03-31": 746,
       "2025-03-30": 574,
       "2025-03-29": 675,
-      "2025-03-28": 436
+      "2025-03-28": 415
     }
   }
 ]
