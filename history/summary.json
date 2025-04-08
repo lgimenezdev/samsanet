@@ -4,17 +4,17 @@
     "url": "https://intranet.samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "intranet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "95.88%",
+    "uptimeDay": "95.87%",
     "uptimeWeek": "89.90%",
-    "uptimeMonth": "92.27%",
+    "uptimeMonth": "92.31%",
     "uptimeYear": "99.36%",
-    "time": 520,
-    "timeDay": 657,
-    "timeWeek": 470,
-    "timeMonth": 442,
-    "timeYear": 400,
+    "time": 516,
+    "timeDay": 662,
+    "timeWeek": 468,
+    "timeMonth": 441,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2025-04-08": 59,
       "2025-04-07": 131,
@@ -26,7 +26,7 @@
       "2025-04-01": 537,
       "2025-03-31": 624,
       "2025-03-30": 643,
-      "2025-03-29": 570
+      "2025-03-29": 551
     }
   },
   {
@@ -36,9 +36,9 @@
     "slug": "mp",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "88.94%",
-    "uptimeWeek": "88.57%",
-    "uptimeMonth": "92.54%",
+    "uptimeDay": "89.92%",
+    "uptimeWeek": "88.71%",
+    "uptimeMonth": "92.52%",
     "uptimeYear": "99.38%",
     "time": 192,
     "timeDay": 207,
@@ -46,7 +46,7 @@
     "timeMonth": 227,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-04-08": 160,
+      "2025-04-08": 146,
       "2025-04-07": 93,
       "2025-04-06": 168,
       "2025-04-05": 102,
@@ -56,7 +56,7 @@
       "2025-04-01": 385,
       "2025-03-31": 735,
       "2025-03-30": 780,
-      "2025-03-29": 224
+      "2025-03-29": 247
     }
   },
   {
@@ -64,24 +64,24 @@
     "url": "https://intranet.samsa.com.ar/apex/f?p=1000",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "acceso-clientes",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "30.35%",
-    "uptimeWeek": "42.99%",
-    "uptimeMonth": "86.88%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "30.50%",
+    "uptimeWeek": "44.92%",
+    "uptimeMonth": "87.33%",
+    "uptimeYear": "98.94%",
     "time": 1210,
-    "timeDay": 686,
-    "timeWeek": 1130,
-    "timeMonth": 1025,
-    "timeYear": 734,
+    "timeDay": 569,
+    "timeWeek": 1127,
+    "timeMonth": 1023,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2025-04-08": 983,
       "2025-04-07": 999,
       "2025-04-06": 1075,
       "2025-04-05": 921,
       "2025-04-04": 736,
-      "2025-04-03": 1034
+      "2025-04-03": 839
     }
   },
   {
@@ -101,7 +101,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-04-08": 1411,
+      "2025-04-08": 1421,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -477,7 +477,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-08": 1411,
+      "2025-04-08": 1421,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -854,14 +854,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.84%",
+    "uptimeYear": "9.83%",
     "time": 581,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-04-08": 1411,
+      "2025-04-08": 1421,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
