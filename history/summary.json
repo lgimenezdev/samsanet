@@ -12,7 +12,7 @@
     "uptimeYear": "99.35%",
     "time": 508,
     "timeDay": 918,
-    "timeWeek": 485,
+    "timeWeek": 484,
     "timeMonth": 444,
     "timeYear": 402,
     "dailyMinutesDown": {
@@ -66,16 +66,16 @@
     "url": "https://intranet.samsa.com.ar/apex/f?p=1000",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "acceso-clientes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "25.06%",
-    "uptimeWeek": "41.94%",
-    "uptimeMonth": "86.64%",
+    "uptimeDay": "25.75%",
+    "uptimeWeek": "42.25%",
+    "uptimeMonth": "86.71%",
     "uptimeYear": "98.89%",
-    "time": 1212,
-    "timeDay": 989,
-    "timeWeek": 1132,
-    "timeMonth": 1042,
+    "time": 1211,
+    "timeDay": 973,
+    "timeWeek": 1129,
+    "timeMonth": 1040,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2025-04-09": 554,
@@ -84,7 +84,7 @@
       "2025-04-06": 1075,
       "2025-04-05": 921,
       "2025-04-04": 736,
-      "2025-04-03": 565
+      "2025-04-03": 534
     }
   },
   {
@@ -93,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-fibe",
     "status": "down",
-    "uptime": "42.91%",
+    "uptime": "42.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-04-09": 679,
+      "2025-04-09": 689,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -480,7 +480,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-09": 679,
+      "2025-04-09": 689,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -864,7 +864,7 @@
     "timeMonth": 0,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-04-09": 679,
+      "2025-04-09": 689,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1213,7 +1213,7 @@
     "uptimeYear": "99.36%",
     "time": 639,
     "timeDay": 392,
-    "timeWeek": 629,
+    "timeWeek": 633,
     "timeMonth": 666,
     "timeYear": 575,
     "dailyMinutesDown": {
