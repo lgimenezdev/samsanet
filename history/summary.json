@@ -4,16 +4,16 @@
     "url": "https://intranet.samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "intranet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "79.05%",
+    "uptimeDay": "79.04%",
     "uptimeWeek": "53.42%",
-    "uptimeMonth": "82.61%",
+    "uptimeMonth": "82.65%",
     "uptimeYear": "98.55%",
     "time": 457,
-    "timeDay": 1114,
-    "timeWeek": 958,
-    "timeMonth": 483,
+    "timeDay": 1095,
+    "timeWeek": 954,
+    "timeMonth": 484,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2025-04-16": 302,
@@ -32,8 +32,7 @@
       "2025-04-02": 143,
       "2025-04-01": 537,
       "2025-03-31": 624,
-      "2025-03-30": 643,
-      "2025-03-29": 16
+      "2025-03-30": 643
     }
   },
   {
@@ -85,7 +84,7 @@
     "uptimeYear": "98.14%",
     "time": 1259,
     "timeDay": 583,
-    "timeWeek": 1607,
+    "timeWeek": 1651,
     "timeMonth": 1156,
     "timeYear": 825,
     "dailyMinutesDown": {
@@ -120,7 +119,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-04-16": 1188,
+      "2025-04-16": 1215,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -496,7 +495,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 1188,
+      "2025-04-16": 1215,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -873,14 +872,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "7.69%",
+    "uptimeYear": "7.68%",
     "time": 583,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2025-04-16": 1188,
+      "2025-04-16": 1215,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -1228,15 +1227,15 @@
     "url": "https://samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/samsa.com.ar.ico",
     "slug": "sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "79.05%",
+    "uptimeDay": "79.02%",
     "uptimeWeek": "53.26%",
-    "uptimeMonth": "82.82%",
-    "uptimeYear": "98.57%",
-    "time": 656,
-    "timeDay": 605,
-    "timeWeek": 445,
+    "uptimeMonth": "82.91%",
+    "uptimeYear": "98.58%",
+    "time": 655,
+    "timeDay": 582,
+    "timeWeek": 439,
     "timeMonth": 601,
     "timeYear": 565,
     "dailyMinutesDown": {
@@ -1257,7 +1256,7 @@
       "2025-04-01": 253,
       "2025-03-31": 746,
       "2025-03-30": 574,
-      "2025-03-29": 379
+      "2025-03-29": 338
     }
   }
 ]
