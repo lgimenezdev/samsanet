@@ -4,15 +4,15 @@
     "url": "https://intranet.samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "intranet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "86.66%",
+    "uptimeDay": "86.65%",
     "uptimeWeek": "54.51%",
-    "uptimeMonth": "82.68%",
+    "uptimeMonth": "82.72%",
     "uptimeYear": "98.56%",
-    "time": 461,
-    "timeDay": 1023,
-    "timeWeek": 909,
+    "time": 458,
+    "timeDay": 984,
+    "timeWeek": 901,
     "timeMonth": 474,
     "timeYear": 414,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
       "2025-04-01": 537,
       "2025-03-31": 624,
       "2025-03-30": 643,
-      "2025-03-29": 96
+      "2025-03-29": 78
     }
   },
   {
@@ -120,7 +120,7 @@
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-04-16": 1001,
+      "2025-04-16": 1015,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -496,7 +496,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 1001,
+      "2025-04-16": 1015,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -880,7 +880,7 @@
     "timeMonth": 0,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2025-04-16": 1001,
+      "2025-04-16": 1015,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -1228,16 +1228,16 @@
     "url": "https://samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/samsa.com.ar.ico",
     "slug": "sitio-web",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "86.68%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "86.65%",
     "uptimeWeek": "54.19%",
-    "uptimeMonth": "82.39%",
-    "uptimeYear": "98.53%",
+    "uptimeMonth": "82.80%",
+    "uptimeYear": "98.57%",
     "time": 658,
-    "timeDay": 528,
-    "timeWeek": 396,
-    "timeMonth": 600,
+    "timeDay": 492,
+    "timeWeek": 397,
+    "timeMonth": 599,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2025-04-16": 192,
@@ -1257,7 +1257,7 @@
       "2025-04-01": 253,
       "2025-03-31": 746,
       "2025-03-30": 574,
-      "2025-03-29": 675
+      "2025-03-29": 494
     }
   }
 ]
