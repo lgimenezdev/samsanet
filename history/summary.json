@@ -4,16 +4,16 @@
     "url": "https://intranet.samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "intranet",
-    "status": "up",
+    "status": "down",
     "uptime": "93.16%",
-    "uptimeDay": "3.97%",
-    "uptimeWeek": "0.57%",
+    "uptimeDay": "4.52%",
+    "uptimeWeek": "0.65%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.26%",
+    "uptimeYear": "79.27%",
     "time": 433,
-    "timeDay": 890,
-    "timeWeek": 600,
-    "timeMonth": 428,
+    "timeDay": 764,
+    "timeWeek": 569,
+    "timeMonth": 423,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2025-06-26": 415,
@@ -103,7 +103,7 @@
       "2025-04-02": 143,
       "2025-04-01": 537,
       "2025-03-31": 624,
-      "2025-03-30": 601
+      "2025-03-30": 556
     }
   },
   {
@@ -113,8 +113,8 @@
     "slug": "mp",
     "status": "up",
     "uptime": "93.19%",
-    "uptimeDay": "8.59%",
-    "uptimeWeek": "1.23%",
+    "uptimeDay": "9.14%",
+    "uptimeWeek": "1.31%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "79.35%",
     "time": 214,
@@ -220,8 +220,8 @@
     "slug": "acceso-clientes",
     "status": "up",
     "uptime": "93.04%",
-    "uptimeDay": "8.58%",
-    "uptimeWeek": "1.23%",
+    "uptimeDay": "9.13%",
+    "uptimeWeek": "1.30%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "78.90%",
     "time": 1025,
@@ -331,7 +331,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-26": 472,
+      "2025-06-26": 480,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -715,7 +715,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-26": 472,
+      "2025-06-26": 480,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -1099,7 +1099,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-26": 472,
+      "2025-06-26": 480,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -1471,16 +1471,16 @@
     "url": "https://samsa.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/samsa.com.ar.ico",
     "slug": "sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "93.17%",
-    "uptimeDay": "3.99%",
-    "uptimeWeek": "0.57%",
+    "uptimeDay": "4.51%",
+    "uptimeWeek": "0.64%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.28%",
-    "time": 589,
-    "timeDay": 380,
-    "timeWeek": 162,
-    "timeMonth": 58,
+    "uptimeYear": "79.30%",
+    "time": 588,
+    "timeDay": 305,
+    "timeWeek": 148,
+    "timeMonth": 56,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2025-06-26": 415,
@@ -1571,7 +1571,7 @@
       "2025-04-01": 253,
       "2025-03-31": 746,
       "2025-03-30": 574,
-      "2025-03-29": 291
+      "2025-03-29": 220
     }
   }
 ]
