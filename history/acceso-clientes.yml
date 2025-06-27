@@ -1,7 +1,7 @@
 url: https://intranet.samsa.com.ar/apex/f?p=1000
-status: up
-code: 200
-responseTime: 5297
-lastUpdated: 2025-06-26T23:17:57.791Z
+status: down
+code: 503
+responseTime: 2869
+lastUpdated: 2025-06-27T11:38:10.543Z
 startTime: 2022-06-15T12:52:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
