@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "intranet",
     "status": "up",
-    "uptime": "73.87%",
+    "uptime": "73.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.56%",
-    "uptimeYear": "7.23%",
-    "time": 542,
-    "timeDay": 1163,
-    "timeWeek": 1339,
-    "timeMonth": 634,
-    "timeYear": 493,
+    "uptimeMonth": "40.88%",
+    "uptimeYear": "7.51%",
+    "time": 543,
+    "timeDay": 1086,
+    "timeWeek": 1307,
+    "timeMonth": 662,
+    "timeYear": 495,
     "dailyMinutesDown": {
       "2026-05-06": 236,
       "2026-05-05": 1440,
@@ -354,8 +354,7 @@
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
-      "2025-05-19": 1440,
-      "2025-05-18": 1440
+      "2025-05-19": 1440
     }
   },
   {
@@ -364,16 +363,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "mp",
     "status": "up",
-    "uptime": "73.88%",
+    "uptime": "73.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.90%",
-    "uptimeMonth": "36.77%",
-    "uptimeYear": "7.17%",
-    "time": 291,
-    "timeDay": 627,
-    "timeWeek": 964,
-    "timeMonth": 934,
-    "timeYear": 213,
+    "uptimeMonth": "40.08%",
+    "uptimeYear": "7.44%",
+    "time": 292,
+    "timeDay": 565,
+    "timeWeek": 945,
+    "timeMonth": 950,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2026-05-14": 111,
       "2026-05-08": 230,
@@ -716,8 +715,7 @@
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
-      "2025-05-19": 1440,
-      "2025-05-18": 1440
+      "2025-05-19": 1440
     }
   },
   {
@@ -726,16 +724,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.samsa.com.ar.ico",
     "slug": "acceso-clientes",
     "status": "up",
-    "uptime": "73.78%",
+    "uptime": "73.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.90%",
-    "uptimeMonth": "36.77%",
-    "uptimeYear": "7.18%",
-    "time": 754,
-    "timeDay": 7108,
-    "timeWeek": 6596,
-    "timeMonth": 2900,
-    "timeYear": 629,
+    "uptimeMonth": "40.09%",
+    "uptimeYear": "7.46%",
+    "time": 792,
+    "timeDay": 19227,
+    "timeWeek": 8520,
+    "timeMonth": 3466,
+    "timeYear": 679,
     "dailyMinutesDown": {
       "2026-05-14": 111,
       "2026-05-08": 230,
@@ -1080,8 +1078,7 @@
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
-      "2025-05-19": 1440,
-      "2025-05-18": 1440
+      "2025-05-19": 1440
     }
   },
   {
@@ -1090,7 +1087,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-fibe",
     "status": "down",
-    "uptime": "30.84%",
+    "uptime": "30.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1101,7 +1098,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-17": 244,
+      "2026-05-18": 257,
+      "2026-05-17": 1440,
       "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
@@ -1464,8 +1462,7 @@
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
-      "2025-05-19": 1440,
-      "2025-05-18": 1440
+      "2025-05-19": 1440
     }
   },
   {
@@ -1485,7 +1482,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-17": 244,
+      "2026-05-18": 257,
+      "2026-05-17": 1440,
       "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
@@ -1848,8 +1846,7 @@
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
-      "2025-05-19": 1440,
-      "2025-05-18": 1440
+      "2025-05-19": 1440
     }
   },
   {
@@ -1858,7 +1855,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "internet-claro",
     "status": "down",
-    "uptime": "21.29%",
+    "uptime": "21.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1869,7 +1866,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-17": 244,
+      "2026-05-18": 257,
+      "2026-05-17": 1440,
       "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
@@ -2232,8 +2230,7 @@
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
-      "2025-05-19": 1440,
-      "2025-05-18": 1440
+      "2025-05-19": 1440
     }
   },
   {
@@ -2242,16 +2239,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/samsa.com.ar.ico",
     "slug": "sitio-web",
     "status": "up",
-    "uptime": "73.89%",
+    "uptime": "73.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.56%",
-    "uptimeYear": "7.25%",
+    "uptimeMonth": "40.87%",
+    "uptimeYear": "7.53%",
     "time": 229,
-    "timeDay": 861,
-    "timeWeek": 929,
-    "timeMonth": 417,
-    "timeYear": 187,
+    "timeDay": 794,
+    "timeWeek": 912,
+    "timeMonth": 437,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2026-05-06": 237,
       "2026-05-05": 1440,
@@ -2591,8 +2588,7 @@
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
-      "2025-05-19": 1440,
-      "2025-05-18": 1440
+      "2025-05-19": 1440
     }
   }
 ]
